@@ -1,0 +1,11 @@
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\bin\Debug\net7.0\Library.deps.json
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\bin\Debug\net7.0\Library.dll
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\bin\Debug\net7.0\Library.pdb
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.dll
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\Library.pdb
+C:\Vs_p2_C#\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net7.0\ref\Library.dll
